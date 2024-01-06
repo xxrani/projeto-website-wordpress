@@ -1,0 +1,6 @@
+"# Ignorar diretórios wp-content/uploads/
+wp-content/uploads/
+
+# Ignorar o arquivo wp-config.php
+wp-config.php
+" 
